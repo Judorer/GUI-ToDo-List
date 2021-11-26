@@ -1,2 +1,13 @@
-# GUI-ToDo-List
-GUI ToDo List with Time and Date, able to be closed to system tray and set on top. A more user-friendly and better version of the Simple ToDo List. Created using PyQt5.
+# GUI ToDo List V1.0
+
+# Features
+- To Do List
+- Time
+- Date
+- Close to System Tray
+- Stay on Top
+
+Used CIL icons and LEMON MILK font.
+Created with PyQt5.
+
+simple thing
