@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/cil-check.png</file>
+    <file>images/cil-check-alt.png</file>
+  </qresource>
+</RCC>
